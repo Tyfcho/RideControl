@@ -1,5 +1,12 @@
 ### TODO List
 
+#### Github page:
+- [ ] Create a nice README.md
+- [X] Add a license
+- [ ] Add a contributing guide
+- [ ] Add a code of conduct
+- [ ] Add a scope of the project
+
 #### Requirements
 1. **Read YAML Configuration File**:
     - The name of the ride will be the name of the YAML file.
