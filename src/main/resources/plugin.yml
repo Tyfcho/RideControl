@@ -1,0 +1,7 @@
+name: RideControl
+version: '1.0-SNAPSHOT'
+main: me.tyfcho.rideControl.RideControl
+api-version: '1.21'
+prefix: TPC
+authors: [ Tyfcho ]
+description: ThemeparkCore Plugin for MV & FC
